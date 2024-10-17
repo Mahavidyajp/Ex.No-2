@@ -79,6 +79,15 @@ int main(int argc, char **argv) {
 
 int yywrap() { return 1; }
 ```
+## var.c
+```
+#include<stdio.h>
+int main()
+{
+    int a,b;
+    return 0;
+}
+```
 # OUTPUT
 ![image](https://github.com/user-attachments/assets/49d44816-1a9b-4d80-9e94-fbb187d7df1f)
 
